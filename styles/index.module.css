@@ -1,0 +1,10 @@
+.header {
+  padding: 30px;
+  margin: 30px;
+  color: royalblue;
+  background-color: aqua;
+  /* border: 2px solid rgb(148, 148, 148); */
+  border-radius: 15px;
+  text-align: center;
+  transition: 5s;
+}

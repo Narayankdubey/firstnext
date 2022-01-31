@@ -1,0 +1,19 @@
+.eleContainer {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 20px;
+  background-color: aliceblue;
+  border: 1px solid rgb(153, 99, 99);
+  border-radius: 5px;
+}
+.eleContainer > * {
+  margin: 0%;
+}
+.eleContainer > h3 {
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 90px;
+  background-color: aqua;
+}
